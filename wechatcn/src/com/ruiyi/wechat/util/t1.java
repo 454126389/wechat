@@ -100,7 +100,8 @@ public class t1 {
 		
 		
 		
-		RedisUtil.publish("gps.instruct", "352544072205181:MOTION,1,2#");
+//		RedisUtil.publish("gps.instruct", "352544072205181:MOTION,1,2#");
+		System.out.println("2");
 		  
 		/*String id="352544072210546";
 		String id2=id.substring(0,3);
